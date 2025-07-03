@@ -36,7 +36,7 @@ This project is powered by a *stack-tacular* lineup of modern tools, carefully c
 
 ## 🔗 Links
 
-- **GitHub**: [https://github.com/faisalsaificode/retro-style=portfolio](https://github.com/faisalsaificode/retro-style=portfolio)
+- **GitHub**: [https://github.com/faisalsaificode/faisalsaifi-portfolio](https://github.com/Faisalsaificode/faisalsaifi-portfolio)
 - **Live Preview**: [faisaltestlink.vercel.app](https://faisaltestlink.vercel.app)
 - **Email**: Got questions? Ping me at `faisalisvahora@example.com` for a *byte-sized* chat.
 
