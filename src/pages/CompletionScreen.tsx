@@ -397,7 +397,7 @@ const CompletionScreen = ({ onRestart }: CompletionScreenProps) => {
                 <button
                   onClick={() => {
                     window.open(
-                      "https://github.com/faisalsaificode",
+                      "https://github.com/faisalsaificode/faisalsaifi-portfolio",
                       "_blank"
                     );
                     setShowModal(false);
