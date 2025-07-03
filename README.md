@@ -36,9 +36,8 @@ This project is powered by a *stack-tacular* lineup of modern tools, carefully c
 
 ## 🔗 Links
 
-- **GitHub**: [https://github.com/faisalsaificode/retro-style=portfolio](https://github.com/faisalsaificode/retro-style=portfolio)
-- **Live Preview**: [faisaltestlink.vercel.app](https://faisaltestlink.vercel.app)
-- **Email**: Got questions? Ping me at `faisalisvahora@example.com` for a *byte-sized* chat.
+- **GitHub**: [https://github.com/faisalsaificode/faisalsaifi-portfolio](https://github.com/Faisalsaificode/faisalsaifi-portfolio)
+- **Email**: Got questions? Ping me at `faisalsaifi.code@gmail.com` for a *byte-sized* chat.
 
 ## 🕹️ How to Run This Locally
 
@@ -46,8 +45,8 @@ Want to *plug and play* this portfolio on your machine? Follow these steps to ge
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/faisalsaificode
-   cd retro-style-portfolio
+   git clone https://github.com/faisalsaificode/faisalsaifi-portfolio.git
+   cd faisalsaifi-portfolio
    ```
 
 2. **Install dependencies**:
