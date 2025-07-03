@@ -37,6 +37,7 @@ This project is powered by a *stack-tacular* lineup of modern tools, carefully c
 ## 🔗 Links
 
 - **GitHub**: [https://github.com/faisalsaificode/faisalsaifi-portfolio](https://github.com/Faisalsaificode/faisalsaifi-portfolio)
+**Live Preview**:[https://faisalsaifi.tech]
 - **Email**: Got questions? Ping me at `faisalsaifi.code@gmail.com` for a *byte-sized* chat.
 
 ## 🕹️ How to Run This Locally
