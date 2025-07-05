@@ -1,7 +1,7 @@
 
-# Retro style Portfolio 🚀
+# Portfolio 🚀
 
-Welcome to my **Retro style Portfolio**, where retro vibes meet modern code! This is no ordinary portfolio—it's a *byte-sized* adventure through my skills, projects, and experiences, styled like a classic arcade game. Ready to *level up* your curiosity? Let's dive into this *8-bit* wonderland! 🎮
+Welcome to my **My Portfolio**, where retro vibes meet modern code! This is no ordinary portfolio—it's a *byte-sized* adventure through my skills, projects, and experiences, styled like a classic arcade game. Ready to *level up* your curiosity? Let's dive into this *8-bit* wonderland! 🎮
 
 ## 🎨 What's This All About?
 
